@@ -1,0 +1,23 @@
+{
+  "name": "a01-colehenry",
+  "version": "1.0.0",
+  "description": "This assignment for COMP 426 will help you get started working with Node.js and hacking your way through creating a webserver from scratch.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-colehenry.git"
+  },
+  "author": "colehenry",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-colehenry/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-colehenry#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
